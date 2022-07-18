@@ -1,5 +1,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=status102)
 ![](https://github-readme-stats.vercel.app/api?username=status102&show_icons=true)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=status102)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=status102&hide=javascript,html,css)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=status102&utcOffset=8)
 ![](https://stats.justsong.cn/api/bilibili/?id=55411725)
