@@ -4,5 +4,3 @@
 [![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=status102&utcOffset=8)](https://github.com/status102)
 
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=status102&layout=compact)](https://github.com/status102)
-
-[![](https://stats.justsong.cn/api/bilibili/?id=55411725)](https://space.bilibili.com/55411725)
