@@ -17,7 +17,7 @@
 <h2></h2>
 
 #### languages and Frameworks
-![](https://img.shields.io/badge/JAVA-007396?logo=java&logoColor=fff)
+![](https://img.shields.io/badge/JAVA-F79120?logo=java&logoColor=fff)
 ![](https://img.shields.io/badge/Kotlin-01A7FC?logo=Kotlin)
 ![](https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff)
 ![](https://img.shields.io/badge/C++-00599C?logo=cplusplus&logoColor=fff)
