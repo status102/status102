@@ -5,8 +5,8 @@
 </p>
 <p align="center">
 	<a href="https://github.com/status102">
-		<img height="200em" src="https://github-readme-stats.vercel.app/api?username=status102&show_icons=true&&count_private=true">
-		<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=status102&layout=compact">
+		<img src="https://github-readme-stats.vercel.app/api?username=status102&show_icons=true&&count_private=true">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=status102&layout=compact">
 	</a>	
 </p>
 <p align="center">
