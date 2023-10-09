@@ -1,7 +1,6 @@
 <p align="center">
 	<a href="https://github.com/status102">
 		<img width="670em" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=status102">
-		<img width="330em" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=status102&utcOffset=8">
 	</a>	
 </p>
 <p align="center">
